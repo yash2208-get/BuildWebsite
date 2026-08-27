@@ -1,0 +1,310 @@
+{
+ "brick/math": [
+  "brick/math",
+  "0.14.8"
+ ],
+ "carbonphp/carbon-doctrine-types": [
+  "CarbonPHP/carbon-doctrine-types",
+  "3.2.0"
+ ],
+ "dflydev/dot-access-data": [
+  "dflydev/dflydev-dot-access-data",
+  "v3.0.3"
+ ],
+ "doctrine/inflector": [
+  "doctrine/inflector",
+  "2.1.0"
+ ],
+ "doctrine/lexer": [
+  "doctrine/lexer",
+  "3.0.1"
+ ],
+ "dragonmantank/cron-expression": [
+  "dragonmantank/cron-expression",
+  "v3.6.0"
+ ],
+ "egulias/email-validator": [
+  "egulias/EmailValidator",
+  "4.0.4"
+ ],
+ "fruitcake/php-cors": [
+  "fruitcake/php-cors",
+  "v1.4.0"
+ ],
+ "graham-campbell/result-type": [
+  "GrahamCampbell/Result-Type",
+  "v1.2.0"
+ ],
+ "guzzlehttp/guzzle": [
+  "guzzle/guzzle",
+  "7.15.5"
+ ],
+ "guzzlehttp/promises": [
+  "guzzle/promises",
+  "2.5.3"
+ ],
+ "guzzlehttp/psr7": [
+  "guzzle/psr7",
+  "2.13.1"
+ ],
+ "guzzlehttp/uri-template": [
+  "guzzle/uri-template",
+  "v1.0.11"
+ ],
+ "laravel/framework": [
+  "laravel/framework",
+  "v12.68.0"
+ ],
+ "laravel/prompts": [
+  "laravel/prompts",
+  "v0.3.24"
+ ],
+ "laravel/serializable-closure": [
+  "laravel/serializable-closure",
+  "v2.0.16"
+ ],
+ "league/commonmark": [
+  "thephpleague/commonmark",
+  "2.10.0"
+ ],
+ "league/config": [
+  "thephpleague/config",
+  "v1.2.0"
+ ],
+ "league/flysystem": [
+  "thephpleague/flysystem",
+  "3.35.3"
+ ],
+ "league/flysystem-local": [
+  "thephpleague/flysystem-local",
+  "3.35.3"
+ ],
+ "league/mime-type-detection": [
+  "thephpleague/mime-type-detection",
+  "1.17.0"
+ ],
+ "league/uri": [
+  "thephpleague/uri",
+  "7.8.1"
+ ],
+ "league/uri-interfaces": [
+  "thephpleague/uri-interfaces",
+  "7.8.1"
+ ],
+ "livewire/livewire": [
+  "livewire/livewire",
+  "v3.8.6"
+ ],
+ "monolog/monolog": [
+  "Seldaek/monolog",
+  "3.10.0"
+ ],
+ "nesbot/carbon": [
+  "CarbonPHP/carbon",
+  "3.13.2"
+ ],
+ "nette/schema": [
+  "nette/schema",
+  "v1.3.6"
+ ],
+ "nette/utils": [
+  "nette/utils",
+  "v4.1.5"
+ ],
+ "nunomaduro/termwind": [
+  "nunomaduro/termwind",
+  "v2.4.0"
+ ],
+ "phpoption/phpoption": [
+  "schmittjoh/php-option",
+  "1.10.0"
+ ],
+ "psr/clock": [
+  "php-fig/clock",
+  "1.0.0"
+ ],
+ "psr/container": [
+  "php-fig/container",
+  "2.0.2"
+ ],
+ "psr/event-dispatcher": [
+  "php-fig/event-dispatcher",
+  "1.0.0"
+ ],
+ "psr/http-client": [
+  "php-fig/http-client",
+  "1.0.3"
+ ],
+ "psr/http-factory": [
+  "php-fig/http-factory",
+  "1.1.0"
+ ],
+ "psr/http-message": [
+  "php-fig/http-message",
+  "2.0"
+ ],
+ "psr/log": [
+  "php-fig/log",
+  "3.0.2"
+ ],
+ "psr/simple-cache": [
+  "php-fig/simple-cache",
+  "3.0.0"
+ ],
+ "ralouphie/getallheaders": [
+  "ralouphie/getallheaders",
+  "3.0.3"
+ ],
+ "ramsey/collection": [
+  "ramsey/collection",
+  "2.1.1"
+ ],
+ "ramsey/uuid": [
+  "ramsey/uuid",
+  "4.9.3"
+ ],
+ "spatie/laravel-permission": [
+  "spatie/laravel-permission",
+  "6.25.0"
+ ],
+ "symfony/clock": [
+  "symfony/clock",
+  "v7.4.8"
+ ],
+ "symfony/console": [
+  "symfony/console",
+  "v7.4.17"
+ ],
+ "symfony/css-selector": [
+  "symfony/css-selector",
+  "v7.4.17"
+ ],
+ "symfony/deprecation-contracts": [
+  "symfony/deprecation-contracts",
+  "v3.7.1"
+ ],
+ "symfony/error-handler": [
+  "symfony/error-handler",
+  "v7.4.17"
+ ],
+ "symfony/event-dispatcher": [
+  "symfony/event-dispatcher",
+  "v7.4.17"
+ ],
+ "symfony/event-dispatcher-contracts": [
+  "symfony/event-dispatcher-contracts",
+  "v3.7.1"
+ ],
+ "symfony/finder": [
+  "symfony/finder",
+  "v7.4.17"
+ ],
+ "symfony/http-foundation": [
+  "symfony/http-foundation",
+  "v7.4.17"
+ ],
+ "symfony/http-kernel": [
+  "symfony/http-kernel",
+  "v7.4.17"
+ ],
+ "symfony/mailer": [
+  "symfony/mailer",
+  "v7.4.17"
+ ],
+ "symfony/mime": [
+  "symfony/mime",
+  "v7.4.17"
+ ],
+ "symfony/polyfill-ctype": [
+  "symfony/polyfill-ctype",
+  "v1.37.0"
+ ],
+ "symfony/polyfill-intl-grapheme": [
+  "symfony/polyfill-intl-grapheme",
+  "v1.41.0"
+ ],
+ "symfony/polyfill-intl-idn": [
+  "symfony/polyfill-intl-idn",
+  "v1.42.0"
+ ],
+ "symfony/polyfill-intl-normalizer": [
+  "symfony/polyfill-intl-normalizer",
+  "v1.42.0"
+ ],
+ "symfony/polyfill-mbstring": [
+  "symfony/polyfill-mbstring",
+  "v1.38.2"
+ ],
+ "symfony/polyfill-php80": [
+  "symfony/polyfill-php80",
+  "v1.37.0"
+ ],
+ "symfony/polyfill-php83": [
+  "symfony/polyfill-php83",
+  "v1.41.0"
+ ],
+ "symfony/polyfill-php84": [
+  "symfony/polyfill-php84",
+  "v1.38.1"
+ ],
+ "symfony/polyfill-php85": [
+  "symfony/polyfill-php85",
+  "v1.41.0"
+ ],
+ "symfony/polyfill-uuid": [
+  "symfony/polyfill-uuid",
+  "v1.37.0"
+ ],
+ "symfony/process": [
+  "symfony/process",
+  "v7.4.17"
+ ],
+ "symfony/psr-http-message-bridge": [
+  "symfony/psr-http-message-bridge",
+  "v7.4.8"
+ ],
+ "symfony/routing": [
+  "symfony/routing",
+  "v7.4.17"
+ ],
+ "symfony/service-contracts": [
+  "symfony/service-contracts",
+  "v3.7.1"
+ ],
+ "symfony/string": [
+  "symfony/string",
+  "v7.4.15"
+ ],
+ "symfony/translation": [
+  "symfony/translation",
+  "v7.4.17"
+ ],
+ "symfony/translation-contracts": [
+  "symfony/translation-contracts",
+  "v3.7.1"
+ ],
+ "symfony/uid": [
+  "symfony/uid",
+  "v7.4.17"
+ ],
+ "symfony/var-dumper": [
+  "symfony/var-dumper",
+  "v7.4.17"
+ ],
+ "symfony/var-exporter": [
+  "symfony/var-exporter",
+  "v7.4.16"
+ ],
+ "tijsverkoyen/css-to-inline-styles": [
+  "tijsverkoyen/CssToInlineStyles",
+  "v2.4.0"
+ ],
+ "vlucas/phpdotenv": [
+  "vlucas/phpdotenv",
+  "v5.7.0"
+ ],
+ "voku/portable-ascii": [
+  "voku/portable-ascii",
+  "2.1.1"
+ ]
+}
